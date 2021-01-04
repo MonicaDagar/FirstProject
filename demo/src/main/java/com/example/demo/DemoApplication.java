@@ -39,6 +39,7 @@ public class DemoApplication {
 		}
 		return true;
 		
+		
 	}
 	
 	public static int solution(int N) {
